@@ -17,9 +17,4 @@ The Multi-Purpose Recommendation System is a Streamlit-based web app designed to
 - **TF-IDF:** To analyze and vectorize text data for recommendations.
 - **Count Vectorization:** To convert text into a format suitable for model input.
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
